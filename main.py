@@ -10,4 +10,4 @@ for shop in shopping:
 print('W sumie kupuję {} produktów'.format(len(shopping['Lidl'] + shopping['Biedronka'])))
 
 print('Hiszpańska Inkwizycja to najlepszy skecz grupy Monthy Python')
-print('spam, spam, spam'
+print('spam, spam, spam')
