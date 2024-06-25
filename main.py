@@ -8,3 +8,5 @@ for shop in shopping:
   print('Idę do {} i kupuję tam {}.'.format(shop, list_001))
 
 print('W sumie kupuję {} produktów'.format(len(shopping['Lidl'] + shopping['Biedronka'])))
+
+print('Hiszpańska Inkwizycja to najlepszy skecz grupy Monthy Python')
